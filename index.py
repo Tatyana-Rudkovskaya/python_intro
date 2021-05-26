@@ -116,9 +116,9 @@ for i in matrix:
         print(j) """
 
 # sets
-user= ["string", 66, "kdlsf"]
+""" user= ["string", 66, "kdlsf"]
 users =[
     {"name": "Tatyana", "age": 66},
     {"name": "Tommy", "age": 89}
  ]
-print(users[1]["name"])
+print(users[1]["name"]) """
